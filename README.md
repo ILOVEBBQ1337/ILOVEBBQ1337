@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ILOVEBBQ1337
+- 👀 I’m interested in Python/Powershell
+- 🌱 I’m currently learning Python/Powershell
+- 💞️ I’m looking to collaborate on Python/Powershell
+- 📫 How to reach me by email (vanheusden.sven@hotmail.com)
